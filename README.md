@@ -1,2 +1,2 @@
 # mysqlapi
- testapi to manage db easily using a gui
+manage db easily using a gui
